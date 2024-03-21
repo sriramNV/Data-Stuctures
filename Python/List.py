@@ -93,5 +93,5 @@ print("List after copying List1 to it: ", List)
 
 # 12.Del:- del statement can delete the element from list, it uses index to delete the element and we can use slicings to remove from list
 
-del List1[2:5]
+del List1[2:5]  # deleting the elements from index 2-5(from 2 to 4)
 print("List1 after deleting the elements from index 2 to 4: ", List1)
