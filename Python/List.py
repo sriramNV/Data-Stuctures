@@ -3,7 +3,7 @@
 # the elements in list can be accessed via the assgned index
 # The starting index is always 0 for the list and N-1 for the last element if there are N elements in list
 
-# list declaration
+# list declaration, list is declared with SQUARE BRACES []
 List = [1, 2, 3, "4", "555", 3, "B", "B", 6.7]
 List1 = []  # empty list declaration
 List2 = [4, 5, 6, 2, 3, 1, 8, 33, 21, 45, 22, 98, 123, 226, 90, 9]
